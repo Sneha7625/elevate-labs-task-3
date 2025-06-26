@@ -27,12 +27,12 @@ Build a command-line interface application that allows users to:
 ## 🗂 Folder Structure
 
 LibraryManagementSystem/
-├── src/
-│ ├── Book.java
-│ ├── Library.java
-│ ├── User.java
-│ └── Main.java
-└── README.md
+|_____src/
+      |____ Book.java
+      │____ Library.java
+      |_____ User.java
+      │_____ Main.java
+|_____ README.md
 
 
 ---
